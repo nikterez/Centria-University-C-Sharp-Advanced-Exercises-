@@ -1,3 +1,5 @@
+Missing parts
+
 Part_07_Own_Projects 
     -Introduction to testing.
 
